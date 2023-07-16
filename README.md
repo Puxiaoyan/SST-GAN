@@ -1,2 +1,1 @@
-# SST-GAN
-A novel method for pedestrian trajectory prediction
+# A novel method for pedestrian trajectory prediction
