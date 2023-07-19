@@ -1,1 +1,6 @@
-A novel method for pedestrian trajectory prediction
+# A novel method for pedestrian trajectory prediction
+## Requirements
+
+- Python 3.8
+- PyTorch 1.7
+- Numpy
